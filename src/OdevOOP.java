@@ -1,4 +1,3 @@
-
 public class OdevOOP {
     public static class Musteri {
         private String ad;
